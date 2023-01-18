@@ -4,7 +4,7 @@ Hi 👋 My name is Kamel Gaouaoui
 Web developer & CTF Player
 --------------------------
 
-I'm a computer science student. Interested in cyber security and web development. In my free time i play CTFs and learn web Developement.
+I'm Gaouaoui Kamel.I'm a web developer and cyber security enthusiast.
 
 * 🌍  I'm based in Algeria
 * ✉️  You can contact me at [kamelgaouaoui197@gmail.com](mailto:kamelgaouaoui197@gmail.com)
