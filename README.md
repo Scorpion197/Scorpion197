@@ -10,7 +10,6 @@ I'm Gaouaoui Kamel.I'm a web developer and cyber security enthusiast.
 * ✉️  You can contact me at [kamelgaouaoui197@gmail.com](mailto:kamelgaouaoui197@gmail.com)
 * 🧠  I'm learning Vuejs
 
-@icn-camera
 <a href="https://www.github.com/Scorpion197" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Scorpion197?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
