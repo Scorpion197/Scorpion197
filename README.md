@@ -6,7 +6,7 @@
 <li>👾 Part of Rapptr Labs</li>
 <li>🔝 I’m looking to collaborate on some interesting project</li>
 <li>💻 MERN Stack Developer</li>
-<li>📫 How to reach me: kamel.gaouaoui@pinely.eu</li>
+<li>📫 How to reach me: kamelgaouaoui197@gmail.com</li>
 </ul>
 
 <div>
