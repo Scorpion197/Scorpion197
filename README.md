@@ -3,7 +3,7 @@
 <div>
 <h3>About Me :</h3>
 <ul>
-<li>👾 Part of Pinely International</li>
+<li>👾 Part of Rapptr Labs</li>
 <li>🔝 I’m looking to collaborate on some interesting project</li>
 <li>💻 MERN Stack Developer</li>
 <li>📫 How to reach me: kamel.gaouaoui@pinely.eu</li>
