@@ -3,9 +3,8 @@
 <div>
 <h3>About Me :</h3>
 <ul>
-<li>👾 Part of Rapptr Labs</li>
-<li>🔝 I’m looking to collaborate on some interesting project</li>
-<li>💻 MERN Stack Developer</li>
+<li>Staff Engineer at Toptal currently</li>
+<li>🔝 I’m looking to collaborate on some interesting project with Rust, Go lang, C++</li>
 <li>📫 How to reach me: kamelgaouaoui197@gmail.com</li>
 </ul>
 
